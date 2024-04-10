@@ -1,3 +1,5 @@
+<img src="resources/img/logo.png" alt="Logo del progetto" width="200" height="200">
+
 # ![#285a8c](https://via.placeholder.com/15/285a8c/000000?text=+) Vite BDoctors
 
 Vite BDoctors rappresenta la parte front-end di un sito web dedicato alla ricerca e alla interazione con i medici online. Il nostro team, composto da Nicolò, Dario, Nazaryi, Christian e Luca, ha lavorato insieme per creare questa piattaforma che offre agli utenti la possibilità di trovare il medico di cui hanno bisogno, filtrando per specializzazione, città e nome.
